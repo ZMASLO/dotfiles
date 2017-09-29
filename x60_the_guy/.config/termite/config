@@ -1,0 +1,6 @@
+[colors]
+foreground = #F06E27
+background  = #353635
+
+[options]
+font = Monospace 9

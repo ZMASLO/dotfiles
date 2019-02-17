@@ -4,5 +4,5 @@ Here you can find various compositions and config files that I'm using on my com
 
 #actual
 
-![i3_x60](https://i.imgur.com/OAsp2qm.png)
-I'm currently using composiotion x60_the_guy on my IBM/Lenovo ThinkPad x60. Parabola OS is the OS that is installed along with libreboot. WM is i3-gaps.  
+#![i3_x60](https://i.imgur.com/OAsp2qm.png)
+I'm currently using composiotion T450_pixel_bluer on my Lenovo ThinkPad T450. I have Arch GNU/Linux along with i3-gaps.  

@@ -1,0 +1,26 @@
+font=JetBrains Mono 11
+background-color=#0d0e1ae6
+text-color=#e4e4f4
+border-color=#ff4d9e
+progress-color=over #b4a7e8
+border-size=2
+border-radius=10
+padding=14
+margin=10
+default-timeout=5000
+ignore-timeout=1
+max-visible=4
+anchor=top-right
+layer=overlay
+icons=1
+max-icon-size=48
+
+[urgency=high]
+border-color=#e91e8c
+text-color=#ff4d9e
+default-timeout=0
+border-size=3
+
+[urgency=low]
+border-color=#252640
+text-color=#a8a9c8
